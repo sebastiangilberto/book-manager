@@ -1,2 +1,9 @@
-/home/sgilberto/Descargas/book-manager/src/main/java/com/sgilberto/bookmanager/BookManagerApplication.java
-/home/sgilberto/Descargas/book-manager/src/main/java/com/sgilberto/bookmanager/controller/BookController.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/configuration/SwaggerConfiguration.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/entity/Book.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/controller/SwaggerController.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/application/BookManagerApplication.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/service/BookService.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/repository/BookRepository.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/configuration/DatabaseConfiguration.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/controller/BookController.java
+/home/dev/git/book-manager/src/main/java/com/sgilberto/bookmanager/service/PersistentBookService.java
